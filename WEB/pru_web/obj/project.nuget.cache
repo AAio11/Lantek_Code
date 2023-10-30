@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6NEj7k7QRfA48ykZQM7Ig4jp5rYEUpDyHXwWPejZjqiPDd098/k4Fo04IAPiQEh1ZKHccFxzB1bhEo8qmvFVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\LantekCodingChallenge\\WEB\\pru_web\\pru_web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
